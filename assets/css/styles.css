@@ -12,6 +12,7 @@
 body {
   min-height: 100vh;
   display: flex;
+  padding: 0.5rem;
   flex-direction: column;
   background: transparent
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
@@ -20,16 +21,17 @@ body {
 /*Header*/
 header {
   display: flex;
-  padding: 0 1rem;
+  padding: 1rem;
   position: fixed;
   z-index: 99;
-  width: 100%;
+  width: 95%;
   box-shadow: 0 2px 2px #584500;
   justify-content: space-between;
   align-items: baseline;
   color: #372400;
   font-family: "Delicious Handrawn", cursive;
   font-weight: bolder;
+  background-color: #d6b65e;
 }
 
 header a {
@@ -52,6 +54,7 @@ nav {
   font-size: 120%;
   display: none;
   top: 100%;
+  text-align: center;
 }
 
 #menu > li {
