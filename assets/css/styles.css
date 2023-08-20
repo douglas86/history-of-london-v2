@@ -19,7 +19,7 @@ body {
 
 /*Header*/
 header {
-  display: flex;
+  display: inline-block;
   padding: 0 1rem;
   position: fixed;
   z-index: 99;
@@ -27,11 +27,24 @@ header {
   box-shadow: 0 2px 2px #584500;
   justify-content: space-between;
   align-items: baseline;
+  color: #372400;
+  font-family: "Delicious Handrawn", cursive;
 }
 
 header a {
   text-decoration: none;
   color: inherit;
+}
+
+/*Navbar Styling*/
+nav {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
+#menu > li {
+  list-style-type: none;
 }
 
 /*Main*/
