@@ -2,16 +2,29 @@
 
 ---
 
-## Introduction
+### Introduction
 
 This is my First Milestone Project with Code Institute.
 
-I thought of building a website on the history of Transportation in London from the 1800s. As my country of origin 
+I thought of building a website on the history of Transportation in London from the 1800s. As my country of origin
 doesn't have the same transportation network that the UK has to offer.
 
 This site is deployed live on GitHub Pages
 
 [Click here to visit my Live Site](https://douglas86.github.io/history-of-london-v2/)
 
-[//]: # (When ready use this site to insert a screenshot of my website on all devices)
-[//]: # (https://ui.dev/amiresponsive?url=https://douglas86.github.io/history-of-london-v2/index.html)
+[//]: # "When ready use this site to insert a screenshot of my website on all devices"
+[//]: # "https://ui.dev/amiresponsive?url=https://douglas86.github.io/history-of-london-v2/index.html"
+
+---
+
+## Table of Content
+
+- [Introduction](#introduction)
+- [Website Design](#website-design)
+
+---
+
+### Website Design
+
+---
