@@ -1,5 +1,82 @@
+/*Google Fonts link*/
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Delicious+Handrawn&family=Lato:wght@300&family=Lumanosimo&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
 /*Wildcard styling*/
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
+
+/*General styles*/
+body {
+  min-height: 100vh;
+  display: flex;
+  padding: 0.5rem;
+  flex-direction: column;
+  background: transparent
+    url("../images/general/istockphoto-515842039-170667a.webp") repeat;
+}
+
+/*Header*/
+header {
+  display: flex;
+  padding: 1rem;
+  position: relative;
+  z-index: 99;
+  width: 100%;
+  box-shadow: 0 2px 2px #584500;
+  justify-content: space-between;
+  align-items: baseline;
+  color: #372400;
+  font-family: "Delicious Handrawn", cursive;
+  font-weight: bolder;
+  background-color: #d6b65e;
+}
+
+header a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 140%;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/*Navbar Styling*/
+nav {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  font-size: 80%;
+  display: none;
+  top: 100%;
+  text-align: center;
+  background-color: #d6b65e;
+  box-shadow: 0 2px 2px #584500;
+}
+
+#menu > li {
+  list-style-type: none;
+  font-family: "Lumanosimo", cursive;
+}
+
+/*Nav toggle*/
+#nav-toggle:checked ~ nav {
+  display: block;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+#nav-toggle-label {
+  font-size: 2rem;
+}
+
+/*Main*/
+
+/*Footer*/

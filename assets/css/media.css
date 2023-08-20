@@ -1,3 +1,63 @@
-/*Media breakpoint upto 450px*/
-@media only screen and (max-width: 450px) {
+/*Media queries: tablet and larger (from 768px and up)*/
+@media screen and (min-width: 768px) {
+  /*General styles*/
+  body {
+    padding: 1rem;
+  }
+  /*Header*/
+  header {
+    display: block;
+  }
+  h2 {
+    font-size: 180%;
+  }
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    left: auto;
+    margin: auto;
+    font-size: 120%;
+  }
+  #menu {
+    display: flex;
+    width: 100%;
+  }
+  #menu > li {
+    padding: 1rem;
+  }
+  .nav-toggle-label {
+    display: none;
+  }
+}
+
+/*Media query: laptops and desktops (from 992px and up)*/
+@media screen and (min-width: 992px) {
+  /*General styles*/
+  body {
+    padding: 1.2rem;
+  }
+  /*Header*/
+  #menu > li:hover {
+    color: #584500;
+  }
+}
+
+/*Media query: 4k monitors and larger (from 2500px and up)*/
+@media screen and (min-width: 2500px) {
+  /*General styles*/
+  body {
+    padding: 2rem;
+  }
+  /*Header*/
+  h2 {
+    font-size: 500%;
+  }
+  nav {
+    font-size: 250%;
+  }
+  #menu > li {
+    padding: 2rem;
+  }
 }
