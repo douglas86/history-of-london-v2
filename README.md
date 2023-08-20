@@ -35,7 +35,7 @@ This site is deployed live on GitHub Pages
 
 #### Typography
 
-- [Google Fonts](https://fonts.google.com/specimen/Dancing+Script?preview.text=History%20of%20London%20Transport&preview.text_type=custom) were used to display my text using a link tag in
-  each html document
+- [Google Fonts](https://fonts.google.com/specimen/Dancing+Script?preview.text=History%20of%20London%20Transport&preview.text_type=custom) were used to display fonts on the page, using an
+  import statement in my css file
 
 ---
