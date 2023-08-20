@@ -1,5 +1,9 @@
 /*Media queries: tablet and larger (from 768px and up)*/
 @media screen and (min-width: 768px) {
+  /*General styles*/
+  body {
+    padding: 1rem;
+  }
   /*Header*/
   header {
     display: block;
@@ -28,7 +32,13 @@
   }
 }
 
+/*Media query: laptops and desktops (from 992px and up)*/
 @media screen and (min-width: 992px) {
+  /*General styles*/
+  body {
+    padding: 1.2rem;
+  }
+  /*Header*/
   #menu > li:hover {
     color: #584500;
   }
