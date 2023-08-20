@@ -27,4 +27,10 @@ This site is deployed live on GitHub Pages
 
 ### Website Design
 
+#### Color Palette
+
+![color-palette.png](assets%2Fimages%2Freadme%2Fwebsite-design%2Fcolor-palette.png)
+
+[Website of Color Palette](https://mycolor.space/?hex=%23D6B65E&sub=1)
+
 ---
