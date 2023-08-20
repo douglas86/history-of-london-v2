@@ -10,6 +10,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background: transparent
+    url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
 /*Header*/
