@@ -33,4 +33,9 @@ This site is deployed live on GitHub Pages
 
 [Website of Color Palette](https://mycolor.space/?hex=%23D6B65E&sub=1)
 
+#### Typography
+
+- [Google Fonts](https://fonts.google.com/specimen/Dancing+Script?preview.text=History%20of%20London%20Transport&preview.text_type=custom) were used to display my text using a link tag in
+  each html document
+
 ---
