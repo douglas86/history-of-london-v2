@@ -28,6 +28,12 @@
   }
 }
 
+@media screen and (min-width: 992px) {
+  #menu > li:hover {
+    color: #584500;
+  }
+}
+
 /*Media query: 4k monitors and larger (from 2500px and up)*/
 @media screen and (min-width: 2500px) {
   /*General styles*/
