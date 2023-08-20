@@ -39,8 +39,9 @@ header a {
 
 h2 {
   font-family: "Oswald", sans-serif;
-  font-size: 160%;
+  font-size: 140%;
   text-transform: uppercase;
+  text-align: center;
 }
 
 /*Navbar Styling*/
