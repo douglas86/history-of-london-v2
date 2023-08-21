@@ -23,6 +23,7 @@ This site is deployed live on GitHub Pages
 - [Introduction](#introduction)
 - [Website Design](#website-design)
 - [Wireframe Diagrams](#wireframe-diagrams)
+- [Credits And References](#credits-and-references)
 
 ---
 
@@ -53,5 +54,22 @@ All Pages except the Contact Page
 Contact Form Page
 
 ![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-diagrams%2Fwireframe-2.png)
+
+---
+
+### Credits And References
+
+Credits
+
+- [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
+- [Code Institute - Bootcamp](https://codeinstitute.net/)
+- [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
+- [Tutorial on how todo the Hamburger icon](https://www.youtube.com/watch?v=g6Kr1srawjc)
+
+References for information
+
+- [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)
+- [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)
+- [Omnibus or Horse bus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
 
 ---
