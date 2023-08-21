@@ -22,6 +22,7 @@ This site is deployed live on GitHub Pages
 
 - [Introduction](#introduction)
 - [Website Design](#website-design)
+- [Wireframe Diagrams](#wireframe-diagrams)
 
 ---
 
@@ -37,5 +38,9 @@ This site is deployed live on GitHub Pages
 
 - [Google Fonts](https://fonts.google.com/specimen/Dancing+Script?preview.text=History%20of%20London%20Transport&preview.text_type=custom) were used to display fonts on the page, using an
   import statement in my css file
+
+---
+
+### Wireframe Diagrams
 
 ---
