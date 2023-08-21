@@ -43,4 +43,15 @@ This site is deployed live on GitHub Pages
 
 ### Wireframe Diagrams
 
+- Wireframe Diagram of Home Page
+- All Pages are designed the same, except for the Contact Page
+
+All Pages except the Contact Page
+
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-diagrams%2Fwireframe-1.png)
+
+Contact Form Page
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-diagrams%2Fwireframe-2.png)
+
 ---
