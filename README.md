@@ -61,6 +61,12 @@ Contact Form Page
 
 ### Features
 
+#### Header
+
+- Header on Mobile devices
+
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-mobile.png)
+
 ---
 
 ### Problems and Bugs
