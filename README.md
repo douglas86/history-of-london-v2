@@ -130,6 +130,17 @@ Then using icons in intellij of the html file
 
 ![actions-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Factions-tab.png)
 
+- When finished, click on deploy on the Left-Hand side
+- Under Complete Job on the Right-Hand side
+- There will be a link, ctrl+click will open link in a new tab
+
+![build-and-deploy.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fbuild-and-deploy.png)
+
+- Whenever you want to visit your Deployed site
+- You can go to the pages section under the settings tab
+
+![visit-site.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fvisit-site.png)
+
 ---
 
 ### [Problems and Bugs](#table-of-content)
