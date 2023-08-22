@@ -61,6 +61,23 @@
     color: #584500;
   }
 
+  /*Main*/
+  /*Description*/
+  .description {
+    display: flex;
+    margin: 2% auto;
+  }
+  .image {
+    width: 50%;
+  }
+  .content {
+    width: 50%;
+  }
+  .content p {
+    margin: 5% 3%;
+    font-size: 1.5rem;
+  }
+
   /*Footer*/
   footer ul {
     margin: auto;
@@ -85,6 +102,12 @@
   figcaption {
     font-size: 280%;
   }
+
+  /*Description*/
+  .content p {
+    font-size: 3rem;
+  }
+
   /*Header and Footer*/
   nav,
   footer {
