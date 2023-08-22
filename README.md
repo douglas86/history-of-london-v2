@@ -22,11 +22,19 @@ This site is deployed live on GitHub Pages
 
 - [Introduction](#introduction)
 - [Website Design](#website-design)
+  - [Color Palette](#color-palette)
+  - [Typography](#typography)
 - [Wireframe Diagrams](#wireframe-diagrams)
 - [Features](#features)
+  - [Header](#header)
 - [Installing Locally and how it was Deployed on GitHub Pages](#installing-locally-and-how-it-was-deployed-on-github-pages)
+  - [Installing Locally](#installing-locally)
+  - [Deployment to GitHub Pages](#deployment-to-github-pages)
 - [Problems and Bugs](#problems-and-bugs)
+  - [Problem 1: Hamburger menu not pushing content down when opened](#problem-1-hamburger-menu-not-pushing-content-down-when-opened)
 - [Credits And References](#credits-and-references)
+  - [Credits](#credits)
+  - [References for information](#references-for-information)
 
 ---
 
@@ -119,14 +127,14 @@ Then using icons in intellij of the html file
 
 ### Credits And References
 
-Credits
+#### Credits
 
 - [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
 - [Code Institute - Bootcamp](https://codeinstitute.net/)
 - [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 - [Tutorial on how todo the Hamburger icon](https://www.youtube.com/watch?v=g6Kr1srawjc)
 
-References for information
+#### References for information
 
 - [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)
 - [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)
