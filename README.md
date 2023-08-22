@@ -62,6 +62,14 @@ Contact Form Page
 
 #### Problem 1: Hamburger menu not pushing content down when opened
 
+- When the Menu is closed
+
+![problem1-hamburger-menu-closed.png](assets%2Fimages%2Freadme%2Fproblems-and-bugs%2Fproblem1-hamburger-menu-closed.png)
+
+- When the Menu is opened, it overlaps the content under it
+
+![problem1-hamburger-menu-open.png](assets%2Fimages%2Freadme%2Fproblems-and-bugs%2Fproblem1-hamburger-menu-open.png)
+
 ---
 
 ### Credits And References
