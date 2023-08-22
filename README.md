@@ -84,6 +84,17 @@ Contact Form Page
 
 ### Installing Locally and how it was Deployed on GitHub Pages
 
+#### Installing Locally
+
+git clone if using ssh or http
+
+- using ssh: git clone git@github.com:douglas86/history-of-london-v2.git
+- using http: git clone https://github.com/douglas86/history-of-london-v2.git
+
+Then using icons in intellij of the html file
+
+![img.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fimg.png)
+
 ---
 
 ### Problems and Bugs
