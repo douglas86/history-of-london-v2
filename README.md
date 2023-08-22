@@ -67,6 +67,10 @@ Contact Form Page
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-mobile.png)
 
+- Header on Tablet devices
+
+![navbar-tablet.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-tablet.png)
+
 ---
 
 ### Problems and Bugs
