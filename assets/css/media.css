@@ -41,6 +41,11 @@
     display: none;
   }
 
+  /*Context*/
+  iframe {
+    height: 30rem;
+  }
+
   /*Footer*/
   footer > ul {
     display: flex;

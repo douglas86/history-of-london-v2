@@ -131,6 +131,12 @@ figcaption {
   font-family: "Delicious Handrawn", cursive;
 }
 
+/*Context*/
+iframe {
+  width: 100%;
+  height: 15rem;
+}
+
 /*Footer*/
 footer {
   margin: auto;
