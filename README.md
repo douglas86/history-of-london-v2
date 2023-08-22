@@ -75,6 +75,10 @@ Contact Form Page
 
 ![navbar-laptops.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-laptops.png)
 
+- Screens that are 2500 px and larger (bigger than 4k monitors)
+
+![navbar-4k.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-4k.png)
+
 ---
 
 ### Problems and Bugs
