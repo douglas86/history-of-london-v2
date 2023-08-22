@@ -23,6 +23,7 @@ This site is deployed live on GitHub Pages
 - [Introduction](#introduction)
 - [Website Design](#website-design)
 - [Wireframe Diagrams](#wireframe-diagrams)
+- [Features](#features)
 - [Problems and Bugs](#problems-and-bugs)
 - [Credits And References](#credits-and-references)
 
@@ -55,6 +56,10 @@ All Pages except the Contact Page
 Contact Form Page
 
 ![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-diagrams%2Fwireframe-2.png)
+
+---
+
+### Features
 
 ---
 
