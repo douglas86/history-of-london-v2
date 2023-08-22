@@ -46,9 +46,13 @@
   body {
     padding: 1.2rem;
   }
-  /*Header*/
-  #menu > li:hover {
+  /*hovering on the list elements*/
+  #menu > li:hover,
+  footer ul > li:hover {
     color: #584500;
+  }
+  footer ul {
+    margin: auto;
   }
 }
 
