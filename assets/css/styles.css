@@ -26,6 +26,16 @@ h2 {
   text-align: center;
 }
 
+/*List and link tags*/
+li {
+  list-style-type: none;
+  font-family: "Lumanosimo", cursive;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 /*Header and Footer*/
 header,
 footer {
@@ -43,11 +53,11 @@ footer {
   background-color: #d6b65e;
 }
 
-header a,
-footer a {
-  text-decoration: none;
-  color: inherit;
-}
+/*header a,*/
+/*footer a {*/
+/*  text-decoration: none;*/
+/*  color: inherit;*/
+/*}*/
 
 /*Navbar Styling*/
 nav {
@@ -62,10 +72,10 @@ nav {
   box-shadow: 0 2px 2px #584500;
 }
 
-#menu > li {
-  list-style-type: none;
-  font-family: "Lumanosimo", cursive;
-}
+/*li {*/
+/*  list-style-type: none;*/
+/*  font-family: "Lumanosimo", cursive;*/
+/*}*/
 
 /*Nav toggle*/
 #nav-toggle:checked ~ nav {
