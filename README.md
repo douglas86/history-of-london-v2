@@ -115,6 +115,15 @@ Then using icons in intellij of the html file
 
 ![pages-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fpages-tab.png)
 
+- Once in the Pages section, there is content on the Right-Hand side
+- called Build and Deployment
+- there will be a section called branches
+- make sure that the branch is Main
+- as this is the branch that will be deployed
+- then save that branch
+
+![branches-section.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fbranches-section.png)
+
 ---
 
 ### [Problems and Bugs](#table-of-content)
