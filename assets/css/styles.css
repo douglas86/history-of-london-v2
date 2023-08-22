@@ -21,7 +21,8 @@ body {
 /*Heading Tags*/
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   text-align: center;
@@ -33,6 +34,12 @@ h1 {
 }
 h2 {
   font-size: 140%;
+}
+h3 {
+  font-size: 130%;
+  margin: 2% auto;
+  text-align: center;
+  font-weight: bold;
 }
 
 /*List and link tags*/
@@ -96,7 +103,18 @@ nav {
 figcaption {
   text-align: center;
   font-family: "Lumanosimo", cursive;
-  font-weight: bold;
+}
+
+/*Description*/
+.image img {
+  width: 100%;
+}
+.content {
+  text-align: center;
+}
+.content p {
+  font-size: 1.2rem;
+  margin: 5% auto;
 }
 
 /*Footer*/
