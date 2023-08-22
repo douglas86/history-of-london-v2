@@ -4,14 +4,19 @@
   body {
     padding: 1rem;
   }
+  h1 {
+    font-size: 220%;
+  }
+  h2 {
+    font-size: 180%;
+  }
+
   /*Header*/
   header,
   footer {
     display: block;
   }
-  h2 {
-    font-size: 180%;
-  }
+
   nav {
     display: block;
     position: relative;
@@ -68,10 +73,13 @@
   body {
     padding: 2rem;
   }
-  /*Header*/
+  h1 {
+    font-size: 550%;
+  }
   h2 {
     font-size: 500%;
   }
+  /*Header and Footer*/
   nav,
   footer {
     font-size: 200%;

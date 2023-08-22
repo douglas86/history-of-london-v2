@@ -19,11 +19,19 @@ body {
 }
 
 /*Heading Tags*/
+
+h1,
 h2 {
   font-family: "Oswald", sans-serif;
-  font-size: 140%;
   text-transform: uppercase;
   text-align: center;
+}
+
+h1 {
+  font-size: 180%;
+}
+h2 {
+  font-size: 140%;
 }
 
 /*List and link tags*/
