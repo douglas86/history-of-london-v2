@@ -5,7 +5,8 @@
     padding: 1rem;
   }
   /*Header*/
-  header {
+  header,
+  footer {
     display: block;
   }
   h2 {
@@ -24,11 +25,19 @@
     display: flex;
     width: 100%;
   }
-  #menu > li {
+  #menu > li,
+  footer ul > li {
     padding: 1rem;
   }
   .nav-toggle-label {
     display: none;
+  }
+
+  /*Footer*/
+  footer > ul {
+    display: flex;
+    width: fit-content;
+    margin: auto;
   }
 }
 
@@ -38,9 +47,18 @@
   body {
     padding: 1.2rem;
   }
-  /*Header*/
-  #menu > li:hover {
+  /*hovering on the list elements*/
+  #menu > li:hover,
+  footer ul > li:hover {
     color: #584500;
+  }
+
+  /*Footer*/
+  footer ul {
+    margin: auto;
+  }
+  footer a {
+    font-size: 120%;
   }
 }
 
@@ -54,10 +72,12 @@
   h2 {
     font-size: 500%;
   }
-  nav {
-    font-size: 250%;
+  nav,
+  footer {
+    font-size: 200%;
   }
-  #menu > li {
+  #menu > li,
+  footer ul > li {
     padding: 2rem;
   }
 }

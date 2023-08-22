@@ -18,8 +18,27 @@ body {
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
-/*Header*/
-header {
+/*Heading Tags*/
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 140%;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/*List and link tags*/
+li {
+  list-style-type: none;
+  font-family: "Lumanosimo", cursive;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*Header and Footer*/
+header,
+footer {
   display: flex;
   padding: 1rem;
   position: relative;
@@ -34,18 +53,6 @@ header {
   background-color: #d6b65e;
 }
 
-header a {
-  text-decoration: none;
-  color: inherit;
-}
-
-h2 {
-  font-family: "Oswald", sans-serif;
-  font-size: 140%;
-  text-transform: uppercase;
-  text-align: center;
-}
-
 /*Navbar Styling*/
 nav {
   position: absolute;
@@ -57,11 +64,6 @@ nav {
   text-align: center;
   background-color: #d6b65e;
   box-shadow: 0 2px 2px #584500;
-}
-
-#menu > li {
-  list-style-type: none;
-  font-family: "Lumanosimo", cursive;
 }
 
 /*Nav toggle*/
@@ -80,3 +82,11 @@ nav {
 /*Main*/
 
 /*Footer*/
+footer {
+  margin: auto;
+}
+
+footer ul {
+  text-align: center;
+  margin: 5px 25%;
+}
