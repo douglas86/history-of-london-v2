@@ -93,7 +93,13 @@ git clone if using ssh or http
 
 Then using icons in intellij of the html file
 
-![img.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fimg.png)
+![intellij-icons.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fintellij-icons.png)
+
+#### Deployment to GitHub Pages
+
+- At the top of this repo, there is a tab called Settings
+
+![settings-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fsettings-tab.png)
 
 ---
 
