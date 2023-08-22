@@ -10,6 +10,9 @@
   h2 {
     font-size: 180%;
   }
+  figcaption {
+    font-size: 140%;
+  }
 
   /*Header*/
   header,
@@ -78,6 +81,9 @@
   }
   h2 {
     font-size: 500%;
+  }
+  figcaption {
+    font-size: 280%;
   }
   /*Header and Footer*/
   nav,
