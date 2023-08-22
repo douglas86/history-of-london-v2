@@ -22,7 +22,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   text-align: center;
@@ -37,6 +38,12 @@ h2 {
 }
 h3 {
   font-size: 130%;
+  margin: 2% auto;
+  text-align: center;
+  font-weight: bold;
+}
+h4 {
+  font-size: 100%;
   margin: 2% auto;
   text-align: center;
   font-weight: bold;
