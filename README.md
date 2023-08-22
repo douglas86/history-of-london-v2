@@ -109,6 +109,12 @@ Then using icons in intellij of the html file
 
 ![settings-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fsettings-tab.png)
 
+- There is a side panel on the Left-Hand side
+- In the Code and Automation section
+- There is a place called Pages
+
+![pages-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fpages-tab.png)
+
 ---
 
 ### [Problems and Bugs](#table-of-content)
