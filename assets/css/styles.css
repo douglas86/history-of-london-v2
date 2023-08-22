@@ -80,3 +80,9 @@ nav {
 /*Main*/
 
 /*Footer*/
+footer {
+  display: flex;
+  background-color: #d6b65e;
+  color: #372400;
+  box-shadow: 0 2px 2px #584500;
+}
