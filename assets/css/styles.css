@@ -18,8 +18,17 @@ body {
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
-/*Header*/
-header {
+/*Heading Tags*/
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 140%;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/*Header and Footer*/
+header,
+footer {
   display: flex;
   padding: 1rem;
   position: relative;
@@ -34,16 +43,10 @@ header {
   background-color: #d6b65e;
 }
 
-header a {
+header a,
+footer a {
   text-decoration: none;
   color: inherit;
-}
-
-h2 {
-  font-family: "Oswald", sans-serif;
-  font-size: 140%;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 /*Navbar Styling*/
@@ -80,9 +83,3 @@ nav {
 /*Main*/
 
 /*Footer*/
-footer {
-  display: flex;
-  background-color: #d6b65e;
-  color: #372400;
-  box-shadow: 0 2px 2px #584500;
-}
