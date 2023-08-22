@@ -24,6 +24,7 @@ This site is deployed live on GitHub Pages
 - [Website Design](#website-design)
 - [Wireframe Diagrams](#wireframe-diagrams)
 - [Features](#features)
+- [Installing Locally and how it was Deployed on GitHub Pages](#installing-locally-and-how-it-was-deployed-on-github-pages)
 - [Problems and Bugs](#problems-and-bugs)
 - [Credits And References](#credits-and-references)
 
@@ -78,6 +79,10 @@ Contact Form Page
 - Screens that are 2500 px and larger (bigger than 4k monitors)
 
 ![navbar-4k.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-4k.png)
+
+---
+
+### Installing Locally and how it was Deployed on GitHub Pages
 
 ---
 
