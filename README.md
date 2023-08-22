@@ -2,7 +2,7 @@
 
 ---
 
-### Introduction
+### [Introduction](#table-of-content)
 
 This is my First Milestone Project with Code Institute.
 
@@ -38,7 +38,7 @@ This site is deployed live on GitHub Pages
 
 ---
 
-### Website Design
+### [Website Design](#table-of-content)
 
 #### Color Palette
 
@@ -53,7 +53,7 @@ This site is deployed live on GitHub Pages
 
 ---
 
-### Wireframe Diagrams
+### [Wireframe Diagrams](#table-of-content)
 
 - Wireframe Diagram of Home Page
 - All Pages are designed the same, except for the Contact Page
@@ -68,7 +68,7 @@ Contact Form Page
 
 ---
 
-### Features
+### [Features](#table-of-content)
 
 #### Header
 
@@ -90,7 +90,7 @@ Contact Form Page
 
 ---
 
-### Installing Locally and how it was Deployed on GitHub Pages
+### [Installing Locally and how it was Deployed on GitHub Pages](#table-of-content)
 
 #### Installing Locally
 
@@ -111,7 +111,7 @@ Then using icons in intellij of the html file
 
 ---
 
-### Problems and Bugs
+### [Problems and Bugs](#table-of-content)
 
 #### Problem 1: Hamburger menu not pushing content down when opened
 
@@ -125,7 +125,7 @@ Then using icons in intellij of the html file
 
 ---
 
-### Credits And References
+### [Credits And References](#table-of-content)
 
 #### Credits
 
