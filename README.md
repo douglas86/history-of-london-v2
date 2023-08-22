@@ -63,13 +63,17 @@ Contact Form Page
 
 #### Header
 
-- Header on Mobile devices
+- Mobile devices
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-mobile.png)
 
-- Header on Tablet devices
+- Tablet devices
 
 ![navbar-tablet.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-tablet.png)
+
+- Laptops and Desktops
+
+![navbar-laptops.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-laptops.png)
 
 ---
 
