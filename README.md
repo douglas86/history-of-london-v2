@@ -124,6 +124,12 @@ Then using icons in intellij of the html file
 
 ![branches-section.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Fbranches-section.png)
 
+- The next step will watch the build process
+- Go to the Actions tab at the top of repo
+- Give it a few minutes to finish building your project
+
+![actions-tab.png](assets%2Fimages%2Freadme%2Finstalling-deployment%2Factions-tab.png)
+
 ---
 
 ### [Problems and Bugs](#table-of-content)
