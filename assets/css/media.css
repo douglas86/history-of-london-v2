@@ -30,6 +30,14 @@
   .nav-toggle-label {
     display: none;
   }
+
+  /*Footer*/
+  footer ul {
+    display: flex;
+  }
+  footer li {
+    padding: 0.5rem;
+  }
 }
 
 /*Media query: laptops and desktops (from 992px and up)*/
