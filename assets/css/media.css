@@ -70,17 +70,52 @@
   /*Description*/
   .description {
     display: flex;
-    margin: 2% auto;
+    margin: 1% auto;
   }
-  .image {
-    width: 50%;
+  .description .image {
+    width: 100%;
+    margin: -4% auto;
   }
+  .image img {
+    width: 100%;
+    margin: 15% auto 1%;
+  }
+
   .content {
-    width: 50%;
+    width: 100%;
   }
   .content p {
     margin: 5% 3%;
     font-size: 1.5rem;
+  }
+  .context {
+    padding: 3%;
+    margin: auto;
+    vertical-align: middle;
+  }
+  .context figcaption {
+    font-size: 100%;
+    margin: 2% auto 10%;
+  }
+
+  /*Timeline*/
+  .timeline {
+    display: flex;
+  }
+  .dates {
+    width: 50%;
+  }
+  .context {
+    width: 50%;
+    margin: 5% auto;
+  }
+  img {
+    width: fit-content;
+  }
+  iframe {
+    width: 100%;
+    height: 20rem;
+    margin-top: 50%;
   }
 
   /*Footer*/
