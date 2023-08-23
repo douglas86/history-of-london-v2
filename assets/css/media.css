@@ -10,6 +10,12 @@
   h2 {
     font-size: 180%;
   }
+  h3 {
+    font-size: 160%;
+  }
+  h4 {
+    font-size: 140%;
+  }
   figcaption {
     font-size: 140%;
   }
@@ -139,13 +145,20 @@
   h2 {
     font-size: 500%;
   }
+  h3 {
+    font-size: 420%;
+  }
+  h4 {
+    font-size: 380%;
+  }
   figcaption {
     font-size: 280%;
   }
 
   /*Description*/
-  .content p {
-    font-size: 3rem;
+  .content p,
+  .timeline-text p {
+    font-size: 4rem;
   }
 
   /*Header and Footer*/
